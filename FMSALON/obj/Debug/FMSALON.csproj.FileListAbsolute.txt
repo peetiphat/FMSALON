@@ -1,0 +1,15 @@
+C:\Users\peeti\source\repos\FMSALON\FMSALON\bin\Debug\FMSALON.exe.config
+C:\Users\peeti\source\repos\FMSALON\FMSALON\bin\Debug\FMSALON.exe
+C:\Users\peeti\source\repos\FMSALON\FMSALON\bin\Debug\FMSALON.pdb
+C:\Users\peeti\source\repos\FMSALON\FMSALON\bin\Debug\EntityFramework.dll
+C:\Users\peeti\source\repos\FMSALON\FMSALON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peeti\source\repos\FMSALON\FMSALON\bin\Debug\EntityFramework.xml
+C:\Users\peeti\source\repos\FMSALON\FMSALON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peeti\source\repos\FMSALON\FMSALON\obj\Debug\FMSALON.csproj.AssemblyReference.cache
+C:\Users\peeti\source\repos\FMSALON\FMSALON\obj\Debug\FMSALON.Properties.Resources.resources
+C:\Users\peeti\source\repos\FMSALON\FMSALON\obj\Debug\FMSALON.csproj.GenerateResource.cache
+C:\Users\peeti\source\repos\FMSALON\FMSALON\obj\Debug\FMSALON.csproj.CoreCompileInputs.cache
+C:\Users\peeti\source\repos\FMSALON\FMSALON\obj\Debug\FMSALON.csproj.CopyComplete
+C:\Users\peeti\source\repos\FMSALON\FMSALON\obj\Debug\FMSALON.exe
+C:\Users\peeti\source\repos\FMSALON\FMSALON\obj\Debug\FMSALON.pdb
+C:\Users\peeti\source\repos\FMSALON\FMSALON\obj\Debug\FMSALON.Form1.resources
